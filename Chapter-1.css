@@ -1,0 +1,44 @@
+body {
+  padding: 50px;
+  background-color: #fefdf1;
+}
+.chapter-number {
+  text-align: center;
+  font-family: sans-serif;
+  padding-bottom: 10px;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.chapter-name {
+  text-align: center;
+  padding-bottom: 25px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.quote {
+  padding-bottom: 150px;
+
+}
+
+.opening-quote {
+
+}
+
+.quote-author {
+  text-align:right;
+  font-family:serif;
+  font-size: 12px;
+
+}
+
+.chapter-section {
+  text-indent: 20px;
+}
+
+.first-words {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
